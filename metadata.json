@@ -1,0 +1,6 @@
+{
+  "name": "School Management Information System",
+  "description": "Comprehensive School Management Information System (SMIS) for Nigerian Nursery, Primary, and Secondary Schools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
